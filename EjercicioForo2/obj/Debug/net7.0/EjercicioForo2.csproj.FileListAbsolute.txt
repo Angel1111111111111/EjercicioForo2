@@ -1,0 +1,15 @@
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\bin\Debug\net7.0\EjercicioForo2.exe
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\bin\Debug\net7.0\EjercicioForo2.deps.json
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\bin\Debug\net7.0\EjercicioForo2.runtimeconfig.json
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\bin\Debug\net7.0\EjercicioForo2.dll
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\bin\Debug\net7.0\EjercicioForo2.pdb
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.csproj.AssemblyReference.cache
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.AssemblyInfoInputs.cache
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.AssemblyInfo.cs
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.csproj.CoreCompileInputs.cache
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.dll
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\refint\EjercicioForo2.dll
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.pdb
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\EjercicioForo2.genruntimeconfig.cache
+C:\ProyectoII\Unidad1\03-PruebaMVC\EjercicioForo2\EjercicioForo2\obj\Debug\net7.0\ref\EjercicioForo2.dll
